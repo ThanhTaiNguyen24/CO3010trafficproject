@@ -1,0 +1,10 @@
+lcd.c:15:6:lcd_send_cmd	32	static
+lcd.c:28:6:lcd_send_data	32	static
+lcd.c:41:6:lcd_init	8	static
+lcd.c:58:6:lcd_send_string	16	static
+lcd.c:63:6:lcd_clear_display	8	static
+lcd.c:69:6:lcd_goto_XY	24	static
+lcd.c:83:6:updateLCDBuffer	40	static
+lcd.c:98:6:updateLCDManualRedBuffer	40	static
+lcd.c:113:6:updateLCDManualYellowBuffer	40	static
+lcd.c:128:6:updateLCDManualGreenBuffer	40	static

@@ -1,0 +1,9 @@
+traffic.c:10:6:traffic_1red_2red	8	static
+traffic.c:16:6:traffic_1red_2green	8	static
+traffic.c:22:6:traffic_1red_2yellow	8	static
+traffic.c:28:6:traffic_1green_2red	8	static
+traffic.c:34:6:traffic_1yellow_2red	8	static
+traffic.c:40:6:traffic_turnoffall	8	static
+traffic.c:47:6:traffic_manualred	8	static
+traffic.c:60:6:traffic_manualgreen	8	static
+traffic.c:73:6:traffic_manualyellow	8	static
